@@ -204,7 +204,7 @@ function AIInsights(){
     return(
         <div className="rounded-xl border p-6">
             <div className="flex items-center gap-2 mb-4">
-                <bot size={28} />
+                <Bot size={28} />
 
                 <h2 className="font-semibold">
                     AI Insights

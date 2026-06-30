@@ -32,5 +32,5 @@ return (
             Create
         </button>
     </div>
-);
+    );
 }
